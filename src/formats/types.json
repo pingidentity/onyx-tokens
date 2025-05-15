@@ -1,0 +1,9 @@
+{
+    "color": "color",
+    "font-size": "number",
+    "font-weight": "number",
+    "radius": "number",
+    "size": "number",
+    "spacing": "number",
+    "line-height": "number"
+}

@@ -1,0 +1,45 @@
+{
+  "source": ["src/tokens-dark/**/*.js"],
+  "log": {
+    "verbosity": "verbose"
+  },
+  "platforms": {
+    "tokens": {
+      "buildPath": "build/tokens/",
+      "files": [{
+        "destination": "_tokens-dark.json",
+        "format": "design-tokens"
+      }]
+    },
+    "astro": {
+      "buildPath": "build/astro/",
+      "files": [{
+        "destination": "tokens-dark.json",
+        "format": "astro-theme"
+      }]
+    },
+    "css": {
+      "transformGroup": "css",
+      "buildPath": "build/css/",
+      "files": [{
+        "destination": "onyx-dark-tokens.css",
+        "format": "css/variables",
+        "options": {
+          "outputReferences": true
+        }
+      }]
+    },
+    "scss": {
+      "transformGroup": "scss",
+      "transforms": ["size/px"],
+      "buildPath": "build/scss/",
+      "files": [{
+        "destination": "onyx-dark-stylesheet.scss",
+        "format": "scss/variables",
+        "options": {
+          "outputReferences": true
+        }
+      }]
+    }
+ }
+}

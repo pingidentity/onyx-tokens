@@ -1,0 +1,36 @@
+{
+  "name": "onyx-tokens",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/onyx-tokens/src",
+  "projectType": "library",
+  "tags": ["type:util"],
+  "targets": {
+    "build": {
+      "executor": "@nx/vite:build",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/libs/onyx-tokens",
+        "main": "libs/onyx-tokens/build/index.ts",
+        "tsConfig": "libs/onyx-tokens/tsconfig.lib.json",
+        "assets": [
+          "libs/onyx-tokens/*.md",
+          {
+            "input": "libs/onyx-tokens",
+            "glob": "**/!(*.ts)",
+            "output": "."
+          },
+          {
+            "input": "libs/onyx-tokens",
+            "glob": "**/*.scss",
+            "output": "."
+          },
+          {
+            "input": "libs/onyx-tokens",
+            "glob": "**/!(*.ts)",
+            "output": "."
+          }
+        ]
+      }
+    }
+  }
+}

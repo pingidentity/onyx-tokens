@@ -1,0 +1,45 @@
+{
+  "source": ["src/tokens/**/*.js"],
+  "log": {
+    "verbosity": "verbose"
+  },
+  "platforms": {
+    "tokens": {
+      "buildPath": "build/tokens/",
+      "files": [{
+        "destination": "_tokens.json",
+        "format": "design-tokens"
+      }]
+    },
+    "astro": {
+      "buildPath": "build/astro/",
+      "files": [{
+        "destination": "tokens.json",
+        "format": "astro-theme"
+      }]
+    },
+    "css": {
+      "transformGroup": "css",
+      "buildPath": "build/css/",
+      "files": [{
+        "destination": "onyx-tokens.css",
+        "format": "css/variables",
+        "options": {
+          "outputReferences": true
+        }
+      }]
+    },
+    "scss": {
+      "transformGroup": "scss",
+      "transforms": ["size/px"],
+      "buildPath": "build/scss/",
+      "files": [{
+        "destination": "onyx-stylesheet.scss",
+        "format": "scss/variables",
+        "options": {
+          "outputReferences": true
+        }
+      }]
+    }
+  }
+}
