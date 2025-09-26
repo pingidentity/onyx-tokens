@@ -20,14 +20,10 @@ export default defineConfig({
       tsconfigPath: path.join(__dirname, 'tsconfig.lib.json'),
     }),
   ],
-  // Uncomment this if you are using workers.
-  // worker: {
-  //  plugins: [ nxViteTsPaths() ],
-  // },
   // Configuration for building your library.
   // See: https://vitejs.dev/guide/build.html#library-mode
   build: {
-    outDir: '../../dist/libs/onyx-tokens',
+    outDir: '../../dist/onyx-tokens',
     emptyOutDir: true,
     reportCompressedSize: true,
     commonjsOptions: {
