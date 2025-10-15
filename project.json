@@ -6,6 +6,7 @@
   "projectType": "library",
   "tags": ["type:util"],
   "targets": {
+    "lint": {},
     "build": {
       "executor": "@nx/vite:build",
       "outputs": ["{options.outputPath}"],
