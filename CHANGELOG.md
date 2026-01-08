@@ -1,3 +1,21 @@
+## 0.7.0 (2026-01-08)
+
+### 🚀 Features
+
+- **onyx-tokens:** add onyx-tokens as a util library and wire up bundling with Vite
+
+### 🩹 Fixes
+
+- bumping up to match the correct version
+- ci try adding npmignore..
+- version numbers
+
+### ❤️  Thank You
+
+- akeohanePing
+- Elijah Cooper
+- Ridhisha Dangol
+
 ## 0.6.0 (2026-01-08)
 
 ### 🚀 Features
