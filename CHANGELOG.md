@@ -1,3 +1,7 @@
+## 0.9.0 (2026-01-09)
+
+This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
+
 ## 0.8.0 (2026-01-09)
 
 ### 🚀 Features
