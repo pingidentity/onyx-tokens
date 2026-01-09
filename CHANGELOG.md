@@ -1,3 +1,18 @@
+## 0.8.0 (2026-01-09)
+
+### 🚀 Features
+
+- [UIP-8003] Stepper Onyx Specs
+
+### 🩹 Fixes
+
+- test git prerelease for changed projects
+
+### ❤️  Thank You
+
+- Eli Cooper
+- Ridhisha Dangol
+
 ## 0.7.0 (2026-01-08)
 
 ### 🚀 Features
