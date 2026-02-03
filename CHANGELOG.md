@@ -1,3 +1,7 @@
+## 0.15.0 (2026-02-03)
+
+This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
+
 ## 0.14.0 (2026-01-29)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
