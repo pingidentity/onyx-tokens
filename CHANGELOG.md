@@ -1,3 +1,13 @@
+## 0.15.1-alpha.0 (2026-02-06)
+
+### 🩹 Fixes
+
+- [UIP-8063] Use conventional commit
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.16.0 (2026-02-06)
 
 ### 🚀 Features
