@@ -1,3 +1,13 @@
+## 0.18.0-alpha.0 (2026-02-12)
+
+### 🚀 Features
+
+- [UIP-8093] Popover shift to top corner
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.17.0 (2026-02-06)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
