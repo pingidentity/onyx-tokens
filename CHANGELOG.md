@@ -1,3 +1,18 @@
+## 0.19.0-alpha.0 (2026-02-18)
+
+### 🚀 Features
+
+- [UIP-8012] Update Onyx theme to include Material Symbols icons
+
+### 🩹 Fixes
+
+- [UIP-8111] Astro build failure
+
+### ❤️  Thank You
+
+- Ajith M
+- Ridhisha Dangol
+
 ## 0.18.0 (2026-02-12)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
