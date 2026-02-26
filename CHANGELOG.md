@@ -1,3 +1,13 @@
+## 0.21.0-alpha.0 (2026-02-26)
+
+### 🚀 Features
+
+- [UIP-7706] Add missing colon in commit for adding Onyx tokens in Astro
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.20.0 (2026-02-24)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
