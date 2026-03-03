@@ -1,3 +1,13 @@
+## 0.22.0-alpha.0 (2026-03-03)
+
+### 🚀 Features
+
+- [UIP-8104] fix nav styling
+
+### ❤️  Thank You
+
+- Andrew Keohane
+
 ## 0.21.0 (2026-02-26)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
