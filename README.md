@@ -1,11 +1,35 @@
-# my-onyx
+# @pingux/onyx-tokens
 
-This library was generated with [Nx](https://nx.dev).
+Design tokens for the Onyx/NextGen theme, built with [Style Dictionary](https://amzn.github.io/style-dictionary/).
+
+## Usage
+
+```jsx
+import { astroTokens, astroTokensDark } from '@pingux/onyx-tokens';
+
+// Access tokens programmatically
+const primaryColor = astroTokens.color.primary; // '#1a73e8'
+const spacing = astroTokens.spacing.md;         // 16
+```
+
+## Token Reference
+
+See [`build/TOKENS.md`](./build/TOKENS.md) for the complete list of available tokens with values.
 
 ## Building
 
-Run `nx build my-onyx` to build the library.
+```bash
+npm run build
+```
 
-## Running unit tests
+This generates:
+- `build/astro/tokens.json` - Light theme tokens
+- `build/astro/tokens-dark.json` - Dark theme tokens  
+- `build/TOKENS.md` - Auto-generated token documentation
+- CSS and SCSS variables
 
-Run `nx test my-onyx` to execute the unit tests via [Jest](https://jestjs.io).
+## Running Tests
+
+```bash
+npm test
+```

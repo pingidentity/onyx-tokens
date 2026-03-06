@@ -5,6 +5,7 @@ import { fileURLToPath } from 'url';
 import StyleDictionary from 'style-dictionary';
 import designTokensFormatter from './src/formats/designTokensFormatter.js';
 import astroThemeFormatter from './src/formats/astroThemeFormatter.js';
+import generateTokenDocs from './src/formats/tokenDocsGenerator.js';
 
 const pxTransform = {
     name: 'size/px',
@@ -31,7 +32,7 @@ sd.registerFormat({
     format: astroThemeFormatter
 });
 
-sd.buildAllPlatforms();
+await sd.buildAllPlatforms();
 
 const sdDark = new StyleDictionary('config-dark.json');
 sdDark.registerTransform(pxTransform);
@@ -46,7 +47,7 @@ sdDark.registerFormat({
     format: astroThemeFormatter
 });
 
-sdDark.buildAllPlatforms();
+await sdDark.buildAllPlatforms();
 
 const buildIndexFile = () => {
     const __filename = fileURLToPath(import.meta.url);
@@ -93,3 +94,6 @@ const buildIndexFile = () => {
 };
 
 buildIndexFile();
+
+// Generate token documentation
+generateTokenDocs();

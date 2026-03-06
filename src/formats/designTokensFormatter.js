@@ -1,7 +1,14 @@
 import _ from 'lodash';
-import types from './types.json' with { type: 'json' };
+import { readFileSync } from 'fs';
+import { fileURLToPath } from 'url';
+import { dirname, join } from 'path';
 import chroma from 'chroma-js';
 import { usesReferences, getReferences } from 'style-dictionary/utils';
+
+// Load JSON without import attributes (for Node 20.9.0 compatibility)
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+const types = JSON.parse(readFileSync(join(__dirname, 'types.json'), 'utf8'));
 
 const resolveReferences = dictionary => inputValue => {
   let value = inputValue;
