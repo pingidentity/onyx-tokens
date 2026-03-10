@@ -1,3 +1,13 @@
+## 0.23.1-alpha.0 (2026-03-10)
+
+### 🩹 Fixes
+
+- [UIP-8130] Astro compatibility with node 14
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.23.0 (2026-03-06)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.

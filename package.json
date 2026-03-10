@@ -1,6 +1,6 @@
 {
   "name": "@pingux/onyx-tokens",
-  "version": "0.23.0",
+  "version": "0.23.1-alpha.0",
   "type": "module",
   "scripts": {
     "build": "node build.js",
