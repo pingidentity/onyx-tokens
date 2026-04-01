@@ -1,3 +1,13 @@
+## 0.23.6-alpha.0 (2026-04-01)
+
+### 🩹 Fixes
+
+- [UIP-8084] TooltipTrigger Update to match specs
+
+### ❤️  Thank You
+
+- Kiran Gupta
+
 ## 0.23.5-alpha.0 (2026-04-01)
 
 ### 🩹 Fixes
