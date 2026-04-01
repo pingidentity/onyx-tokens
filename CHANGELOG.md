@@ -1,3 +1,13 @@
+## 0.23.7-alpha.0 (2026-04-01)
+
+### 🩹 Fixes
+
+- [UXE-8157] fixed label text-transform css
+
+### ❤️  Thank You
+
+- Kiran Gupta
+
 ## 0.23.6-alpha.0 (2026-04-01)
 
 ### 🩹 Fixes
