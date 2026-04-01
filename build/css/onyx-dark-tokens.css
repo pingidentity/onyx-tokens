@@ -234,7 +234,7 @@
   --color-nav-bar-item-unselected-text: var(--color-gray-400);
   --color-nav-bar-item-selected-text: var(--color-white);
   --color-table-row-selected-bg: var(--color-table-row-hover-bg);
-  --color-tooltip-container-bg: var(--color-gray-900);
+  --color-tooltip-container-bg: var(--color-black);
   --size-badge: var(--font-size-tiny);
   --size-input-height: var(--size-control-height);
   --font-size-label: var(--font-size-base);
