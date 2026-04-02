@@ -1,3 +1,63 @@
+## 0.23.8-alpha.0 (2026-04-02)
+
+### 🩹 Fixes
+
+- [UXE-8141] Rockerbuttongroup field breaking fix
+
+### ❤️  Thank You
+
+- Kiran Gupta
+
+## 0.23.7-alpha.0 (2026-04-01)
+
+### 🩹 Fixes
+
+- [UXE-8157] fixed label text-transform css
+
+### ❤️  Thank You
+
+- Kiran Gupta
+
+## 0.23.6-alpha.0 (2026-04-01)
+
+### 🩹 Fixes
+
+- [UIP-8084] TooltipTrigger Update to match specs
+
+### ❤️  Thank You
+
+- Kiran Gupta
+
+## 0.23.5-alpha.0 (2026-04-01)
+
+### 🩹 Fixes
+
+- update astro token
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
+## 0.23.4-alpha.0 (2026-03-31)
+
+### 🩹 Fixes
+
+- update npm release command to specify projects for better targeting
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
+## 0.23.3-alpha.0 (2026-03-31)
+
+### 🩹 Fixes
+
+- [UXE-8164] Chromatic build
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.23.2 (2026-03-10)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.

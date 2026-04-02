@@ -1,6 +1,6 @@
 {
   "name": "@pingux/onyx-tokens",
-  "version": "0.23.2",
+  "version": "0.23.8-alpha.0",
   "type": "module",
   "scripts": {
     "build": "node build.js",
@@ -11,7 +11,7 @@
   "typings": "./index.d.ts",
   "dependencies": {
     "chroma-js": "^3.1.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "style-dictionary": "^4.4.0"
   }
 }

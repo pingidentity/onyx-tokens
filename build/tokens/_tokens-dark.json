@@ -979,7 +979,7 @@
     "tooltip": {
       "container": {
         "bg": {
-          "$value": "#23282e",
+          "$value": "#000000",
           "$type": "color"
         }
       }

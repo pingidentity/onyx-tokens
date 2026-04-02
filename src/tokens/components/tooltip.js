@@ -2,7 +2,7 @@ export default {
     "color": {
         "tooltip": {
             "container": {
-                "bg": { value: "{color.gray.900}" }
+                "bg": { value: "{color.black}" }
             },
         }
     },
