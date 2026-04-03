@@ -1,3 +1,13 @@
+## 0.24.1-alpha.0 (2026-04-03)
+
+### 🩹 Fixes
+
+- [UIP-8121] Implement dependency audit changes
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.24.0-alpha.0 (2026-04-03)
 
 ### 🚀 Features
