@@ -1,3 +1,14 @@
+## 0.24.0-alpha.0 (2026-04-03)
+
+### 🚀 Features
+
+- [UIP-8046] Combine version and publish stage with correct astro token
+- [UIP-8046] Combine version and publish stage
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.23.8 (2026-04-02)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
