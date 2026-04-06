@@ -1,3 +1,13 @@
+## 0.24.2-alpha.0 (2026-04-06)
+
+### 🩹 Fixes
+
+- remove project references  in release scripts
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.24.1-alpha.0 (2026-04-03)
 
 ### 🩹 Fixes
