@@ -1,3 +1,13 @@
+## 0.24.3-alpha.0 (2026-04-07)
+
+### 🩹 Fixes
+
+- update NPM publish to publish Astro
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.24.2 (2026-04-07)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
