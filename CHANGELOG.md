@@ -1,3 +1,34 @@
+## 0.24.2-alpha.0 (2026-04-06)
+
+### 🩹 Fixes
+
+- remove project references  in release scripts
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
+## 0.24.1-alpha.0 (2026-04-03)
+
+### 🩹 Fixes
+
+- [UIP-8121] Implement dependency audit changes
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
+## 0.24.0-alpha.0 (2026-04-03)
+
+### 🚀 Features
+
+- [UIP-8046] Combine version and publish stage with correct astro token
+- [UIP-8046] Combine version and publish stage
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.23.8 (2026-04-02)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
