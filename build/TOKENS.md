@@ -1,7 +1,7 @@
 # Onyx Design Tokens Reference
 
 > **Auto-generated file** - Do not edit manually.  
-> Generated: 2026-04-08T17:52:51.354Z  
+> Generated: 2026-04-08T20:40:29.439Z  
 > Source: `@pingux/onyx-tokens`
 
 <!-- AI AGENT CONTEXT:
