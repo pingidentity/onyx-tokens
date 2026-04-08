@@ -1,3 +1,13 @@
+## 0.24.6-alpha.0 (2026-04-08)
+
+### 🩹 Fixes
+
+- skip projects with existing stable tags during release
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.24.5 (2026-04-08)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
