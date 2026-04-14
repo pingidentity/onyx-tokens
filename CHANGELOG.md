@@ -1,3 +1,13 @@
+## 0.24.7-alpha.0 (2026-04-14)
+
+### 🩹 Fixes
+
+- [UXE-8192] Add title to next and previous icon in pagination
+
+### ❤️  Thank You
+
+- Kiran Gupta
+
 ## 0.24.6 (2026-04-09)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
