@@ -1,3 +1,13 @@
+## 0.26.1-alpha.0 (2026-04-21)
+
+### 🩹 Fixes
+
+- storybook version mismatch with addons
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.26.0-alpha.0 (2026-04-21)
 
 ### 🚀 Features
