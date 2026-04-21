@@ -1,3 +1,13 @@
+## 0.25.1-alpha.0 (2026-04-21)
+
+### 🩹 Fixes
+
+- [UXE-8129] Automate updates to the hosted Onyx JSON theme
+
+### ❤️  Thank You
+
+- Andrew Keohane
+
 ## 0.25.0 (2026-04-16)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
