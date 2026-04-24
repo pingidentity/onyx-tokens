@@ -1,3 +1,23 @@
+## 0.26.5-alpha.0 (2026-04-23)
+
+### 🩹 Fixes
+
+- [UXE-8213] Refactor release version handling to use scripts
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
+## 0.26.4-alpha.0 (2026-04-23)
+
+### 🩹 Fixes
+
+- [UXE-8214] Refactor release loop guard
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.26.3 (2026-04-22)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
