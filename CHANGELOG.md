@@ -1,3 +1,7 @@
+## 0.26.5 (2026-04-24)
+
+This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
+
 ## 0.26.5-alpha.0 (2026-04-23)
 
 ### 🩹 Fixes
