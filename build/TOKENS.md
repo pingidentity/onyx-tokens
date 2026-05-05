@@ -74,8 +74,9 @@ Use these tokens in the `sx` prop for consistent spacing:
 
 | Token | Value |
 |-------|-------|
-| `font-size.avatar.sm` | `9.600000000000001px` |
-| `font-size.avatar.md` | `13.600000000000001px` |
+| `font-size.avatar.xs` | `9.600000000000001px` |
+| `font-size.avatar.sm` | `13.600000000000001px` |
+| `font-size.avatar.md` | `19.200000000000003px` |
 | `font-size.avatar.lg` | `28.8px` |
 | `font-size.avatar.xl` | `41.6px` |
 | `font-size.button.small` | `13.25px` |
@@ -100,8 +101,9 @@ Use these tokens in the `sx` prop for consistent spacing:
 | Token | Value |
 |-------|-------|
 | `size.alert.icon` | `18px` |
-| `size.avatar.sm` | `24px` |
-| `size.avatar.md` | `34px` |
+| `size.avatar.xs` | `24px` |
+| `size.avatar.sm` | `34px` |
+| `size.avatar.md` | `48px` |
 | `size.avatar.lg` | `72px` |
 | `size.avatar.xl` | `104px` |
 | `size.badge` | 12px |
