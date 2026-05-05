@@ -993,12 +993,16 @@
       }
     },
     "avatar": {
-      "sm": {
+      "xs": {
         "$value": 24,
         "$type": "number"
       },
-      "md": {
+      "sm": {
         "$value": 34,
+        "$type": "number"
+      },
+      "md": {
+        "$value": 48,
         "$type": "number"
       },
       "lg": {
@@ -1047,12 +1051,16 @@
   },
   "font-size": {
     "avatar": {
-      "sm": {
+      "xs": {
         "$value": 9.600000000000001,
         "$type": "number"
       },
-      "md": {
+      "sm": {
         "$value": 13.600000000000001,
+        "$type": "number"
+      },
+      "md": {
+        "$value": 19.200000000000003,
         "$type": "number"
       },
       "lg": {

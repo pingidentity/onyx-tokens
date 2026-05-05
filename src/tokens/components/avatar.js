@@ -1,6 +1,7 @@
 const avatarSizes = {
-    "sm": { value: 24 },
-    "md": { value: 34 },
+    "xs": { value: 24 },
+    "sm": { value: 34 },
+    "md": { value: 48 },
     "lg": { value: 72 },
     "xl": { value: 104 },
 };
@@ -57,6 +58,7 @@ export default {
     },
     "font-size": {
         "avatar": {
+            "xs": { value: avatarSizes["xs"].value * factor },
             "sm": { value: avatarSizes["sm"].value * factor },
             "md": { value: avatarSizes["md"].value * factor },
             "lg": { value: avatarSizes["lg"].value * factor },
