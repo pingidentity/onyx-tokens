@@ -120,8 +120,9 @@
   --color-nav-bar-item-selected-bg: #2c323a;
   --color-table-row-hover-bg: #2c323a;
   --size-alert-icon: 18;
-  --size-avatar-sm: 24;
-  --size-avatar-md: 34;
+  --size-avatar-xs: 24;
+  --size-avatar-sm: 34;
+  --size-avatar-md: 48;
   --size-avatar-lg: 72;
   --size-avatar-xl: 104;
   --size-modal-sm: 300;
@@ -129,8 +130,9 @@
   --size-modal-lg: 800;
   --size-modal-xl: 1140;
   --size-control-height: 50;
-  --font-size-avatar-sm: 9.600000000000001;
-  --font-size-avatar-md: 13.600000000000001;
+  --font-size-avatar-xs: 9.600000000000001;
+  --font-size-avatar-sm: 13.600000000000001;
+  --font-size-avatar-md: 19.200000000000003;
   --font-size-avatar-lg: 28.8;
   --font-size-avatar-xl: 41.6;
   --font-size-button-small: 13.25;
