@@ -1,3 +1,13 @@
+## 0.28.2-alpha.0 (2026-05-12)
+
+### 🩹 Fixes
+
+- [UXE-8237] Prevent tokens md file from updating timestamp with every mr
+
+### ❤️  Thank You
+
+- Kiran Gupta
+
 ## 0.28.1 (2026-05-05)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
