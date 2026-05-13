@@ -54,10 +54,6 @@ describe('tokenDocsGenerator', () => {
       expect(generatedContent).toContain('**Auto-generated file** - Do not edit manually');
       expect(generatedContent).toContain('Source: `@pingux/onyx-tokens`');
     });
-
-    it('should include timestamp in generated file', () => {
-      expect(generatedContent).toMatch(/Generated: \d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}/);
-    });
   });
 
   describe('spacing tokens', () => {

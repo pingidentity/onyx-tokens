@@ -95,8 +95,6 @@ const tableHeader = (columns = ['Token', 'Value']) =>
  * @returns {string} Complete markdown document
  */
 const generateMarkdownDocs = (tokens) => {
-  const timestamp = new Date().toISOString();
-  
   // Derive token categories from the actual data
   const baseSpacingTokens = getBaseSpacingTokens(tokens);
   const baseFontSizeTokens = getBaseFontSizeTokens(tokens);
@@ -105,7 +103,6 @@ const generateMarkdownDocs = (tokens) => {
   let md = `# Onyx Design Tokens Reference
 
 > **Auto-generated file** - Do not edit manually.  
-> Generated: ${timestamp}  
 > Source: \`@pingux/onyx-tokens\`
 
 <!-- AI AGENT CONTEXT:
