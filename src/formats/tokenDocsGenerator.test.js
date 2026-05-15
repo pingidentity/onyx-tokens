@@ -144,6 +144,50 @@ describe('tokenDocsGenerator', () => {
       expect(generatedContent).toContain('### Avatar Colors');
       expect(generatedContent).toContain('| Token | Background | Text |');
     });
+
+    it('should include common colors section', () => {
+      if (tokens.color?.common) {
+        expect(generatedContent).toContain('### Common Colors (Semantic)');
+        expect(generatedContent).toContain('`common.bg.base`');
+      }
+    });
+
+    it('should include alert component tokens', () => {
+      if (tokens.color?.alert) {
+        expect(generatedContent).toContain('### Alert');
+        expect(generatedContent).toContain('`alert.text`');
+      }
+    });
+
+    it('should include navbar component tokens', () => {
+      if (tokens.color?.['nav-bar'] || tokens.color?.['nav-bar-item']) {
+        expect(generatedContent).toContain('### NavBar');
+      }
+    });
+
+    it('should include table row component tokens', () => {
+      if (tokens.color?.['table-row']) {
+        expect(generatedContent).toContain('### Table Row');
+      }
+    });
+
+    it('should include tooltip component tokens', () => {
+      if (tokens.color?.tooltip) {
+        expect(generatedContent).toContain('### Tooltip');
+      }
+    });
+
+    it('should include icon button component tokens', () => {
+      if (tokens.color?.['icon-button']) {
+        expect(generatedContent).toContain('### Icon Button');
+      }
+    });
+
+    it('should include color block button component tokens', () => {
+      if (tokens.color?.['color-block-button']) {
+        expect(generatedContent).toContain('### Color Block Button');
+      }
+    });
   });
 
   describe('other tokens', () => {
@@ -163,6 +207,13 @@ describe('tokenDocsGenerator', () => {
         expect(generatedContent).toContain(expectedLineHeight);
         // Ensure the line height value doesn't have px (check exact cell format)
         expect(generatedContent).not.toContain(`| ${tokens['line-height'].base}px |`);
+      }
+    });
+
+    it('should include font weight section', () => {
+      if (tokens['font-weight']) {
+        expect(generatedContent).toContain('## Font Weight');
+        expect(generatedContent).toContain('`font-weight.badge`');
       }
     });
   });
