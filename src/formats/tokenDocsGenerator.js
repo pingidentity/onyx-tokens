@@ -288,6 +288,85 @@ ${tableHeader(['Token', 'Background', 'Text'])}`;
     }
   }
 
+  // Common Colors (Semantic)
+  if (tokens.color?.common) {
+    md += `
+### Common Colors (Semantic)
+
+${tableHeader()}${flattenTokensToRows(tokens.color.common, 'common')}`;
+  }
+
+  // Alert
+  if (tokens.color?.alert) {
+    md += `
+### Alert
+
+${tableHeader()}${flattenTokensToRows(tokens.color.alert, 'alert')}`;
+  }
+
+  // NavBar
+  if (tokens.color?.['nav-bar'] || tokens.color?.['nav-bar-item']) {
+    md += `
+### NavBar
+
+${tableHeader()}`;
+    if (tokens.color['nav-bar']) {
+      md += flattenTokensToRows(tokens.color['nav-bar'], 'nav-bar');
+    }
+    if (tokens.color['nav-bar-item']) {
+      md += flattenTokensToRows(tokens.color['nav-bar-item'], 'nav-bar-item');
+    }
+  }
+
+  // Table Row
+  if (tokens.color?.['table-row']) {
+    md += `
+### Table Row
+
+${tableHeader()}${flattenTokensToRows(tokens.color['table-row'], 'table-row')}`;
+  }
+
+  // Tooltip
+  if (tokens.color?.tooltip) {
+    md += `
+### Tooltip
+
+${tableHeader()}${flattenTokensToRows(tokens.color.tooltip, 'tooltip')}`;
+  }
+
+  // Icon Button
+  if (tokens.color?.['icon-button']) {
+    md += `
+### Icon Button
+
+${tableHeader()}${flattenTokensToRows(tokens.color['icon-button'], 'icon-button')}`;
+  }
+
+  // Color Block Button
+  if (tokens.color?.['color-block-button']) {
+    md += `
+### Color Block Button
+
+${tableHeader()}${flattenTokensToRows(tokens.color['color-block-button'], 'color-block-button')}`;
+  }
+
+  // Font Weight
+  if (tokens['font-weight']) {
+    md += `
+---
+
+## Font Weight
+
+${tableHeader()}`;
+    for (const [key, value] of Object.entries(tokens['font-weight'])) {
+      if (typeof value === 'object') {
+        md += flattenTokensToRows(value, `font-weight.${key}`, 'font-weight');
+      } else {
+        md += `| \`font-weight.${key}\` | ${formatValue(value, 'font-weight')} |\n`;
+      }
+    }
+  }
+
   md += `
 ---
 
