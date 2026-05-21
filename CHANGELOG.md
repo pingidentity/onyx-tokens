@@ -1,3 +1,13 @@
+## 0.29.1-alpha.0 (2026-05-21)
+
+### 🩹 Fixes
+
+- [UXE-8293] Improve release pipeline
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.29.0-alpha.0 (2026-05-15)
 
 ### 🚀 Features
