@@ -1,3 +1,13 @@
+## 0.29.2-alpha.0 (2026-05-28)
+
+### 🩹 Fixes
+
+- [UXE-8288] Update npm caching
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.29.1-alpha.0 (2026-05-21)
 
 ### 🩹 Fixes
