@@ -1,3 +1,13 @@
+## 0.29.5-alpha.0 (2026-06-02)
+
+### 🩹 Fixes
+
+- [UXE-8322] Update skip-ci status
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.29.4-alpha.0 (2026-06-02)
 
 ### 🩹 Fixes
