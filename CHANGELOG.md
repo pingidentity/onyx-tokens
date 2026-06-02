@@ -1,3 +1,13 @@
+## 0.29.3-alpha.0 (2026-06-02)
+
+### 🩹 Fixes
+
+- [UIP-8336] Onyx Modal Fixes
+
+### ❤️  Thank You
+
+- Kiran Gupta
+
 ## 0.29.2-alpha.0 (2026-05-28)
 
 ### 🩹 Fixes
