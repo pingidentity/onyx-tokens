@@ -24,16 +24,13 @@ Use these tokens in the `sx` prop for consistent spacing:
 
 | Token | Value |
 |-------|-------|
-| `xx` | 64px |
 | `xl` | 48px |
 | `lg` | 24px |
+| `md-l` | 20px |
 | `md` | 16px |
+| `md-s` | 12px |
 | `sm` | 8px |
 | `xs` | 4px |
-
-> **Note:** `md-s` (12px) and `md-l` (20px) exist in raw token definitions but are
-> internal component tokens — they are NOT in the theme `space` scale and should
-> not be used in `sx` props.
 
 ### Component Spacing
 
@@ -482,6 +479,7 @@ Use these tokens in the `sx` prop for consistent spacing:
 | Token | Value |
 |-------|-------|
 | `base` | 1.6 |
+| `xs` | 1.2 |
 
 ---
 
