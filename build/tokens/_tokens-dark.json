@@ -1271,6 +1271,10 @@
     "base": {
       "$value": 1.6,
       "$type": "number"
+    },
+    "xs": {
+      "$value": 1.2,
+      "$type": "number"
     }
   }
 }
