@@ -408,6 +408,70 @@ Use these tokens in the `sx` prop for consistent spacing:
 | `cyan` | `#cff4fc` | `#087990` |
 | `indigo` | `#f1dbf9` | `#702e87` |
 
+### Common Colors (Semantic)
+
+| Token | Value |
+|-------|-------|
+| `common.bg.base` | `#ffffff` |
+| `common.bg.secondary` | `#f6f8fa` |
+| `common.border` | `#e7eef4` |
+| `common.border-dark` | `#d3d8e0` |
+| `common.light` | `#f6f8fa` |
+| `common.dark` | `#324054` |
+
+### Alert
+
+| Token | Value |
+|-------|-------|
+| `alert.text` | `#455469` |
+| `alert.success.bg` | `#d3eddf` |
+| `alert.critical.bg` | `#f8d8d5` |
+| `alert.warning.bg` | `#fff1da` |
+| `alert.info.bg` | `#eaf2fd` |
+
+### NavBar
+
+| Token | Value |
+|-------|-------|
+| `nav-bar.border` | `#00000000` |
+| `nav-bar-item.unselected.text` | `#455469` |
+| `nav-bar-item.hover.bg` | `#f6f8fa` |
+| `nav-bar-item.selected.text` | `#155cba` |
+| `nav-bar-item.selected.bg` | `#eaf2fd` |
+
+### Table Row
+
+| Token | Value |
+|-------|-------|
+| `table-row.hover.bg` | `#f6f8fa` |
+| `table-row.selected.bg` | `#eaf2fd` |
+
+### Tooltip
+
+| Token | Value |
+|-------|-------|
+| `tooltip.container.bg` | `#000000` |
+
+### Icon Button
+
+| Token | Value |
+|-------|-------|
+| `icon-button.fill` | `#324054` |
+
+### Color Block Button
+
+| Token | Value |
+|-------|-------|
+| `color-block-button.unconfigured` | `#e7eef4` |
+
+---
+
+## Font Weight
+
+| Token | Value |
+|-------|-------|
+| `font-weight.badge` | 600 |
+
 ---
 
 ## Line Height
@@ -415,6 +479,7 @@ Use these tokens in the `sx` prop for consistent spacing:
 | Token | Value |
 |-------|-------|
 | `base` | 1.6 |
+| `xs` | 1.2 |
 
 ---
 

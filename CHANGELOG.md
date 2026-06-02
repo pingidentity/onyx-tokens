@@ -1,3 +1,63 @@
+## 0.29.5-alpha.0 (2026-06-02)
+
+### 🩹 Fixes
+
+- [UXE-8322] Update skip-ci status
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
+## 0.29.4-alpha.0 (2026-06-02)
+
+### 🩹 Fixes
+
+- [UXE-8337] Update Avatar size in PanelHeader
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
+## 0.29.3-alpha.0 (2026-06-02)
+
+### 🩹 Fixes
+
+- [UIP-8336] Onyx Modal Fixes
+
+### ❤️  Thank You
+
+- Kiran Gupta
+
+## 0.29.2-alpha.0 (2026-05-28)
+
+### 🩹 Fixes
+
+- [UXE-8288] Update npm caching
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
+## 0.29.1-alpha.0 (2026-05-21)
+
+### 🩹 Fixes
+
+- [UXE-8293] Improve release pipeline
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
+## 0.29.0-alpha.0 (2026-05-15)
+
+### 🚀 Features
+
+- [UXE-8217] Onyx codemod scaffolding
+
+### ❤️  Thank You
+
+- Andrew Keohane
+
 ## 0.28.2 (2026-05-13)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
