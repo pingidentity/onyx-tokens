@@ -1,3 +1,13 @@
+## 0.29.8-alpha.0 (2026-06-05)
+
+### 🩹 Fixes
+
+- update git add command
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.29.5 (2026-06-02)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
