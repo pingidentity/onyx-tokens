@@ -1,3 +1,13 @@
+## 0.30.0-alpha.0 (2026-06-05)
+
+### 🚀 Features
+
+- [UXE-8325] Prep Onyx Token for open source
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.29.8-alpha.0 (2026-06-05)
 
 ### 🩹 Fixes
