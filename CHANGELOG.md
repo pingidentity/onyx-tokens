@@ -1,3 +1,23 @@
+## 0.30.3-alpha.0 (2026-06-16)
+
+### 🩹 Fixes
+
+- [UXE-8296] Numberfield update
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
+## 0.30.2-alpha.0 (2026-06-12)
+
+### 🩹 Fixes
+
+- [UXE-8396] Update chromatic script for Turbosnap
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.30.1 (2026-06-10)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
