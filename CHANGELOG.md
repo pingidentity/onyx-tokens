@@ -1,3 +1,13 @@
+## 0.30.3-alpha.0 (2026-06-16)
+
+### 🩹 Fixes
+
+- [UXE-8296] Numberfield update
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.30.2-alpha.0 (2026-06-12)
 
 ### 🩹 Fixes
