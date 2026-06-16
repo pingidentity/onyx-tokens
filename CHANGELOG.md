@@ -1,3 +1,13 @@
+## 0.31.0-alpha.0 (2026-06-16)
+
+### 🚀 Features
+
+- [UXE-8395] Publish onyx-tokens to NPM
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.30.3 (2026-06-16)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
