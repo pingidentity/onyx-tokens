@@ -1,3 +1,33 @@
+## 0.32.0-alpha.0 (2026-06-18)
+
+### 🚀 Features
+
+- [UXE-8371] remove style codemode
+
+### ❤️  Thank You
+
+- Jeremy Bissonnette
+
+## 0.31.1-alpha.0 (2026-06-17)
+
+### 🩹 Fixes
+
+- [UXE-8332] Text inside of onyx tab component must be vertically centered
+
+### ❤️  Thank You
+
+- Jeremy Bissonnette
+
+## 0.31.0-alpha.0 (2026-06-16)
+
+### 🚀 Features
+
+- [UXE-8395] Publish onyx-tokens to NPM
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.30.3 (2026-06-16)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
