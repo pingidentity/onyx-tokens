@@ -1,3 +1,13 @@
+## 0.33.0-alpha.0 (2026-06-23)
+
+### 🚀 Features
+
+- [UXE-7814] add iconProps and trigger props
+
+### ❤️  Thank You
+
+- Andrew Keohane
+
 ## 0.32.0 (2026-06-18)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
