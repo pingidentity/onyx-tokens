@@ -15,6 +15,9 @@
   "main": "./index.js",
   "module": "./index.mjs",
   "typings": "./index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "chroma-js": "^3.1.2",
     "lodash": "^4.17.23",
