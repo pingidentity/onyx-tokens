@@ -1,3 +1,13 @@
+## 0.35.1-alpha.0 (2026-06-24)
+
+### 🩹 Fixes
+
+- [UXE-8409] Prevent npmrc tracking
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.35.0-alpha.0 (2026-06-24)
 
 ### 🚀 Features
