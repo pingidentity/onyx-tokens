@@ -1,3 +1,13 @@
+## 0.35.0-alpha.0 (2026-06-24)
+
+### 🚀 Features
+
+- [UXE-7705] Push Astro and Onyx-tokens to Github
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.34.0-alpha.0 (2026-06-24)
 
 ### 🚀 Features
