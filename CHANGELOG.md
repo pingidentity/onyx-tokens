@@ -1,3 +1,33 @@
+## 0.35.1-alpha.0 (2026-06-24)
+
+### 🩹 Fixes
+
+- [UXE-8409] Prevent npmrc tracking
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
+## 0.35.0-alpha.0 (2026-06-24)
+
+### 🚀 Features
+
+- [UXE-7705] Push Astro and Onyx-tokens to Github
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
+## 0.34.0-alpha.0 (2026-06-24)
+
+### 🚀 Features
+
+- [UXE-8395] Make onyx-tokens package public for publishing
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.33.0 (2026-06-23)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
