@@ -1,3 +1,13 @@
+## 0.36.0-alpha.0 (2026-07-02)
+
+### 🚀 Features
+
+- [UXE-8267] Tablebase functionality changes
+
+### ❤️  Thank You
+
+- Kiran Gupta
+
 ## 0.35.1 (2026-06-25)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
