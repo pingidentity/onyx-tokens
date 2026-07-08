@@ -107,7 +107,7 @@
   --color-gray-900: #23282e;
   --color-gray-light: #455469;
   --color-gray-dark: #f6f8fa;
-  --color-common-border: #57595c;
+  --color-border: #39414B;
   --color-common-border-dark: #737577;
   --color-common-light: #1a1e22;
   --color-button-primary-hover-bg: #1462c8;
@@ -193,6 +193,7 @@
   --color-cyan-dark: var(--color-cyan-100);
   --color-common-bg-base: var(--color-gray-900);
   --color-common-bg-secondary: var(--color-gray-900);
+  --color-common-border: var(--color-border);
   --color-common-dark: var(--color-gray-400);
   --color-font-base: var(--color-gray-100);
   --color-font-light: var(--color-gray-400);
@@ -229,11 +230,9 @@
   --color-button-primary-text: var(--color-black);
   --color-button-critical-text: var(--color-black);
   --color-color-block-button-unconfigured: var(--color-gray-700);
-  --color-checkbox-border: var(--color-common-border);
   --color-checkbox-readonly-checked-bg: var(--color-blue-faded);
   --color-icon-button-fill: var(--color-gray-400);
   --color-input-border: var(--color-gray-500);
-  --color-nav-bar-border: var(--color-common-border);
   --color-nav-bar-item-unselected-text: var(--color-gray-400);
   --color-nav-bar-item-selected-text: var(--color-white);
   --color-table-row-selected-bg: var(--color-table-row-hover-bg);
@@ -278,10 +277,12 @@
   --color-button-default-hover-bg: var(--color-primary);
   --color-button-default-hover-text: var(--color-font-reverse);
   --color-checkbox-bg: var(--color-common-bg-base);
+  --color-checkbox-border: var(--color-common-border);
   --color-checkbox-readonly-bg: var(--color-common-bg-secondary);
   --color-input-text: var(--color-font-base);
   --color-input-bg: var(--color-common-bg-base);
   --color-input-readonly-bg: var(--color-common-bg-secondary);
+  --color-nav-bar-border: var(--color-common-border);
   --color-button-critical-bg: var(--color-critical);
   --color-button-critical-border: var(--color-critical);
 }

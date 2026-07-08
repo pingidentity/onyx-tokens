@@ -558,6 +558,10 @@
         "$type": "color"
       }
     },
+    "border": {
+      "$value": "#39414B",
+      "$type": "color"
+    },
     "common": {
       "bg": {
         "base": {
@@ -570,7 +574,7 @@
         }
       },
       "border": {
-        "$value": "#57595c",
+        "$value": "#39414B",
         "$type": "color"
       },
       "border-dark": {
@@ -896,7 +900,7 @@
         "$type": "color"
       },
       "border": {
-        "$value": "#57595c",
+        "$value": "#39414B",
         "$type": "color"
       },
       "readonly-bg": {
@@ -934,7 +938,7 @@
     },
     "nav-bar": {
       "border": {
-        "$value": "#57595c",
+        "$value": "#39414B",
         "$type": "color"
       }
     },
