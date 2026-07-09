@@ -156,12 +156,13 @@
       "light": "#455469",
       "dark": "#f6f8fa"
     },
+    "border": "#39414B",
     "common": {
       "bg": {
         "base": "#23282e",
         "secondary": "#23282e"
       },
-      "border": "#57595c",
+      "border": "#39414B",
       "border-dark": "#737577",
       "light": "#1a1e22",
       "dark": "#c0c9d5"
@@ -280,7 +281,7 @@
     },
     "checkbox": {
       "bg": "#23282e",
-      "border": "#57595c",
+      "border": "#39414B",
       "readonly-bg": "#23282e",
       "readonly-checked-bg": "#1a73e880"
     },
@@ -294,7 +295,7 @@
       "readonly-bg": "#23282e"
     },
     "nav-bar": {
-      "border": "#57595c"
+      "border": "#39414B"
     },
     "nav-bar-item": {
       "unselected": {

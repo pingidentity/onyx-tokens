@@ -1,3 +1,13 @@
+## 0.37.0-alpha.0 (2026-07-08)
+
+### 🚀 Features
+
+- [UIP-8297] TableBase Update to match spec
+
+### ❤️  Thank You
+
+- Kiran Gupta
+
 ## 0.36.0 (2026-07-02)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.

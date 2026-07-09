@@ -10,7 +10,7 @@ export default {
                 }
             },
             "border": {
-                "value": "{color.gray.200}",
+                "value": "{color.border}",
             },
             "border-dark": {
                 "value": "{color.gray.300}",

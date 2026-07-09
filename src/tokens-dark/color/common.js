@@ -17,7 +17,7 @@ export default {
                 }
             },
             "border": {
-                "value": border,
+                "value": '{color.border}',
             },
             "border-dark": {
                 "value": borderDark,

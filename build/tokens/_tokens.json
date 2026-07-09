@@ -558,6 +558,10 @@
         "$type": "color"
       }
     },
+    "border": {
+      "$value": "#e7eef4",
+      "$type": "color"
+    },
     "common": {
       "bg": {
         "base": {
