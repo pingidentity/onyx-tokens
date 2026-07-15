@@ -1,3 +1,13 @@
+## 0.39.0-alpha.0 (2026-07-15)
+
+### 🚀 Features
+
+- [UEX-8290] install and register @storybook/addon-mcp
+
+### ❤️  Thank You
+
+- Jeremy Bissonnette
+
 ## 0.38.0-alpha.0 (2026-07-14)
 
 ### 🚀 Features
