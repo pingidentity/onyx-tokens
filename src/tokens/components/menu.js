@@ -7,7 +7,7 @@ export default {
         },
         "item": {
             "padding-x": "{spacing.md}",
-            "padding-y": "{spacing.md-s}"
+            "padding-y": 12
         }
     },
     "color": {

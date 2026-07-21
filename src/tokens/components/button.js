@@ -42,8 +42,8 @@ export default {
     },
     "spacing": {
         "button": {
-            "padding-x": { value: "{spacing.md-l}" },
-            "padding-y": { value: "{spacing.md-s}" },
+            "padding-x": { value: 20 },
+            "padding-y": { value: 12 },
         },
         "buttonSmall": {
             "padding-x": { value: "{spacing.sm}" },

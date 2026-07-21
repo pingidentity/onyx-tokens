@@ -12,7 +12,7 @@ export default {
     },
     "spacing": {
         "input": {
-            "padding-x": { value: "{spacing.md-s}" },
+            "padding-x": { value: 12 },
         }
     },
     "size": {
