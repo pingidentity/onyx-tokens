@@ -26,9 +26,7 @@ Use these tokens in the `sx` prop for consistent spacing:
 |-------|-------|
 | `xl` | 48px |
 | `lg` | 24px |
-| `md-l` | 20px |
 | `md` | 16px |
-| `md-s` | 12px |
 | `sm` | 8px |
 | `xs` | 4px |
 
