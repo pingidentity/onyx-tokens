@@ -1220,16 +1220,8 @@
       "$value": 24,
       "$type": "number"
     },
-    "md-l": {
-      "$value": 20,
-      "$type": "number"
-    },
     "md": {
       "$value": 16,
-      "$type": "number"
-    },
-    "md-s": {
-      "$value": 12,
       "$type": "number"
     },
     "sm": {
