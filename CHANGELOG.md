@@ -1,3 +1,13 @@
+## 0.40.0-alpha.0 (2026-07-29)
+
+### 🚀 Features
+
+- [UXE-8363] Add LabelValuePairs types and constants scaffolding
+
+### ❤️  Thank You
+
+- Jeremy Bissonnette
+
 ## 0.39.1 (2026-07-22)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
