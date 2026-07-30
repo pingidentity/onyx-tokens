@@ -27,6 +27,23 @@ export default {
             },
             "dark": {
                 "value": "{color.gray.400}"
+            },
+            "menu":{
+                "item":{
+                    "text":{
+                        "value": "{color.gray.400}"
+                    },
+                    "hover": {
+                        "text":{
+                            "value": "{color.gray.200}"
+                        }
+                    },
+                    "selected":{
+                        "text":{
+                            "value": "{color.gray.200}"
+                        }
+                    }
+                }
             }
         }
     }

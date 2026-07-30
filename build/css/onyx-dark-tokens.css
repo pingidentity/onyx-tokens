@@ -196,6 +196,9 @@
   --color-common-bg-secondary: var(--color-gray-900);
   --color-common-border: var(--color-border);
   --color-common-dark: var(--color-gray-400);
+  --color-common-menu-item-text: var(--color-gray-400);
+  --color-common-menu-item-hover-text: var(--color-gray-200);
+  --color-common-menu-item-selected-text: var(--color-gray-200);
   --color-font-base: var(--color-gray-100);
   --color-font-light: var(--color-gray-400);
   --color-font-reverse: var(--color-black);

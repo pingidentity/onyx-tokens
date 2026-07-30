@@ -416,6 +416,9 @@ Use these tokens in the `sx` prop for consistent spacing:
 | `common.border-dark` | `#d3d8e0` |
 | `common.light` | `#f6f8fa` |
 | `common.dark` | `#324054` |
+| `common.menu.item.text` | `#455469` |
+| `common.menu.item.hover.text` | `#181B20` |
+| `common.menu.item.selected.text` | `#23282e` |
 
 ### Alert
 
