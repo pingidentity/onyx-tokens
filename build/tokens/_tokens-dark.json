@@ -588,6 +588,26 @@
       "dark": {
         "$value": "#c0c9d5",
         "$type": "color"
+      },
+      "menu": {
+        "item": {
+          "text": {
+            "$value": "#c0c9d5",
+            "$type": "color"
+          },
+          "hover": {
+            "text": {
+              "$value": "#e7eef4",
+              "$type": "color"
+            }
+          },
+          "selected": {
+            "text": {
+              "$value": "#e7eef4",
+              "$type": "color"
+            }
+          }
+        }
       }
     },
     "font": {

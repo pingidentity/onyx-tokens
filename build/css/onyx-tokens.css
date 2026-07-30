@@ -108,6 +108,7 @@
   --color-gray-light: #f6f8fa;
   --color-gray-dark: #455469;
   --color-border: #e7eef4;
+  --color-common-menu-item-hover-text: #181B20;
   --color-button-primary-hover-bg: #1462c8;
   --color-button-primary-hover-border: #1462c8;
   --color-button-primary-press: #135cbc;
@@ -194,6 +195,8 @@
   --color-common-border-dark: var(--color-gray-300);
   --color-common-light: var(--color-gray-100);
   --color-common-dark: var(--color-gray-800);
+  --color-common-menu-item-text: var(--color-gray-700);
+  --color-common-menu-item-selected-text: var(--color-gray-900);
   --color-font-base: var(--color-gray-900);
   --color-font-light: var(--color-gray-600);
   --color-font-reverse: var(--color-white);
