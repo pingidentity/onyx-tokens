@@ -1,3 +1,18 @@
+## 0.41.0-alpha.0 (2026-07-30)
+
+### 🚀 Features
+
+- [UIP-8327] LinkSelectField: Update to match specs clone
+
+### 🩹 Fixes
+
+- **onyx-wrapper:** [UXE-8681] derive render gate from theme state so Onyx theme reliably applies
+
+### ❤️  Thank You
+
+- Jeremy Bissonnette
+- Kiran Gupta
+
 ## 0.40.0 (2026-07-29)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
