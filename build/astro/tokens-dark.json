@@ -165,7 +165,18 @@
       "border": "#39414B",
       "border-dark": "#737577",
       "light": "#1a1e22",
-      "dark": "#c0c9d5"
+      "dark": "#c0c9d5",
+      "menu": {
+        "item": {
+          "text": "#c0c9d5",
+          "hover": {
+            "text": "#e7eef4"
+          },
+          "selected": {
+            "text": "#e7eef4"
+          }
+        }
+      }
     },
     "font": {
       "base": "#f6f8fa",
