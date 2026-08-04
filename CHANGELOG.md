@@ -1,3 +1,17 @@
+## 0.41.1-alpha.0 (2026-08-04)
+
+### 🚀 Features
+
+- **astro:** add materialSymbolsOutlinedFont to fonts.ts
+
+### 🩹 Fixes
+
+- [UXE-8710] accept prerelease versions in dep-range guard
+
+### ❤️  Thank You
+
+- Jeremy Bissonnette
+
 ## 0.41.0 (2026-07-30)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
