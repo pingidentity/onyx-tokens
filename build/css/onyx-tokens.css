@@ -139,7 +139,7 @@
   --font-size-h3: 22.5;
   --font-size-h2: 26.25;
   --font-size-h1: 33.75;
-  --font-size-base: 15; /** the base size of the font */
+  --font-size-base: 15; /* the base size of the font */
   --font-size-small: 14;
   --font-size-tiny: 12;
   --font-weight-badge: 600;
