@@ -1,3 +1,13 @@
+## 0.41.3-alpha.0 (2026-08-27)
+
+### 🩹 Fixes
+
+- [UXE-8979] fix prettier lockfile
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.41.2-alpha.0 (2026-08-27)
 
 ### 🩹 Fixes
