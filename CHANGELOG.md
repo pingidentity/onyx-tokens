@@ -1,3 +1,23 @@
+## 0.41.3-alpha.0 (2026-08-27)
+
+### 🩹 Fixes
+
+- [UXE-8979] fix prettier lockfile
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
+## 0.41.2-alpha.0 (2026-08-27)
+
+### 🩹 Fixes
+
+- [UXE-8979] Downgrade style-dictionary
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.41.1 (2026-08-04)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
