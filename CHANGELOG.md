@@ -1,3 +1,13 @@
+## 0.41.4-alpha.0 (2026-08-28)
+
+### 🩹 Fixes
+
+- [UXE-9014] Update alpha and stable release processes to handle dependency update
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.41.3 (2026-08-27)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
