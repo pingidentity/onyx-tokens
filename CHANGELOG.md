@@ -1,3 +1,13 @@
+## 0.41.6-alpha.0 (2026-08-30)
+
+### 🩹 Fixes
+
+- [UXE-9014] restore alpha promotion in stable release
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.41.5-alpha.0 (2026-08-29)
 
 ### 🩹 Fixes
