@@ -1,3 +1,13 @@
+## 0.41.7-alpha.0 (2026-08-31)
+
+### 🩹 Fixes
+
+- stable release issue
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.41.6-alpha.0 (2026-08-30)
 
 ### 🩹 Fixes
