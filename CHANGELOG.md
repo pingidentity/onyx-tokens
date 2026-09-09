@@ -1,3 +1,13 @@
+## 0.41.9-alpha.0 (2026-09-09)
+
+### 🩹 Fixes
+
+- [UXE-9022] Fix label value pair
+
+### ❤️  Thank You
+
+- Andrew Keohane
+
 ## 0.41.8-alpha.0 (2026-09-09)
 
 ### 🩹 Fixes
