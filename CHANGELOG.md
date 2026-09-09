@@ -1,3 +1,13 @@
+## 0.41.8-alpha.0 (2026-09-09)
+
+### 🩹 Fixes
+
+- add git tag check and verify versioning
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.41.7 (2026-09-01)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
