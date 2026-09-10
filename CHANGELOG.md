@@ -1,3 +1,13 @@
+## 0.44.1-alpha.0 (2026-09-10)
+
+### 🩹 Fixes
+
+- temporarily disbale dependency check
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.44.0-alpha.0 (2026-09-10)
 
 ### 🚀 Features
