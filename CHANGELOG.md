@@ -1,3 +1,13 @@
+## 0.44.0-alpha.0 (2026-09-10)
+
+### 🚀 Features
+
+- bump version
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.43.0-alpha.0 (2026-09-10)
 
 ### 🚀 Features
