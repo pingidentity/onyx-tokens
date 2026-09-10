@@ -1,3 +1,48 @@
+## 0.44.1-alpha.0 (2026-09-10)
+
+### 🩹 Fixes
+
+- temporarily disbale dependency check
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
+## 0.44.0-alpha.0 (2026-09-10)
+
+### 🚀 Features
+
+- bump version
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
+## 0.43.0-alpha.0 (2026-09-10)
+
+### 🚀 Features
+
+- [UXE-8988] fix Status badges
+
+### 🩹 Fixes
+
+- update package versions
+
+### ❤️  Thank You
+
+- Andrew Keohane
+- Ridhisha Dangol
+
+## 0.42.0-alpha.0 (2026-09-10)
+
+### 🚀 Features
+
+- [UXE-8471] Add hintText to AccordionItem
+
+### ❤️  Thank You
+
+- Andrew Keohane
+
 ## 0.41.9 (2026-09-09)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
