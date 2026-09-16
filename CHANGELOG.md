@@ -1,3 +1,13 @@
+## 0.44.2-alpha.0 (2026-09-16)
+
+### 🩹 Fixes
+
+- add version sorting configuration for git
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.44.1 (2026-09-10)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
