@@ -1,3 +1,13 @@
+## 0.44.3-alpha.0 (2026-10-07)
+
+### 🩹 Fixes
+
+- Chromatic update to v16
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.44.2 (2026-09-16)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
