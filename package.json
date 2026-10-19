@@ -13,7 +13,7 @@
     "test": "node test.js"
   },
   "main": "./index.js",
-  "module": "./index.mjs",
+  "module": "./index.js",
   "typings": "./index.d.ts",
   "publishConfig": {
     "access": "public"
