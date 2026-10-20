@@ -14,7 +14,17 @@ export default defineConfig({
       enabledMode: ['development', 'production']
     }),
     nxViteTsPaths(),
-    nxCopyAssetsPlugin(['*.md', '**/*.css', '**/*.scss']),
+    // Copy the hand-maintained declarations for build/index.ts and the token
+    // JSON it imports for types into the package (the dts() plugin below only
+    // covers src/, not the build/ entry; the JSON is inlined into the runtime
+    // bundle but must ship as files for the .d.ts's imports to type-resolve).
+    nxCopyAssetsPlugin([
+      '*.md',
+      '**/*.css',
+      '**/*.scss',
+      'build/**/*.d.ts',
+      'build/astro/*.json',
+    ]),
     dts({
       entryRoot: 'src',
       tsconfigPath: path.join(__dirname, 'tsconfig.lib.json'),
