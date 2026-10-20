@@ -1,4 +1,4 @@
-import _ from 'lodash';
+import setWith from 'lodash/setWith.js';
 import { readFileSync } from 'fs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
@@ -55,7 +55,7 @@ function formatDesignTokens({dictionary}) {
     // names or any other attributes.
     value = refResolver(value);
 
-    _.setWith(tokenObj, token.path, {
+    setWith(tokenObj, token.path, {
       "$value": token.value,
       "$type": types[type],
     }, Object);
