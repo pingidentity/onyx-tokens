@@ -1,3 +1,17 @@
+## 0.44.5-alpha.0 (2026-10-21)
+
+### 🚀 Features
+
+- **eslint:** enforce tree-shaking contract with lint rules
+
+### 🩹 Fixes
+
+- **onyx-tokens:** ship type declarations and token JSON in published package
+
+### ❤️  Thank You
+
+- Elijah Cooper
+
 ## 0.44.4 (2026-10-21)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
