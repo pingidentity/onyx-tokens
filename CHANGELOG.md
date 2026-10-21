@@ -1,3 +1,18 @@
+## 0.44.4-alpha.0 (2026-10-19)
+
+### 🚀 Features
+
+- **astro:** [UXE-8699] add Tree component based on React Aria Components
+
+### 🩹 Fixes
+
+- [UXE-9220] Correct module field to point at index.js
+
+### ❤️  Thank You
+
+- Eshant Monga
+- Ridhisha Dangol
+
 ## 0.44.3 (2026-10-07)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
