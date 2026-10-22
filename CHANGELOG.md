@@ -1,3 +1,13 @@
+## 0.44.5 (2026-10-22)
+
+### 🚀 Features
+
+- **astro:** [UXE-8463] update MultivaluesField to match Onyx specs
+
+### ❤️  Thank You
+
+- Eshant Monga
+
 ## 0.44.5-alpha.0 (2026-10-21)
 
 ### 🚀 Features
