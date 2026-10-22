@@ -1,6 +1,6 @@
 {
   "name": "@pingux/onyx-tokens",
-  "version": "0.44.4",
+  "version": "0.44.5-alpha.0",
   "license": "Apache-2.0",
   "author": "ux-development@pingidentity.com",
   "repository": {
@@ -14,7 +14,7 @@
   },
   "main": "./index.js",
   "module": "./index.js",
-  "typings": "./index.d.ts",
+  "typings": "./build/index.d.ts",
   "publishConfig": {
     "access": "public"
   },

@@ -1,4 +1,4 @@
-import _ from 'lodash';
+import setWith from 'lodash/setWith.js';
 import { usesReferences, getReferences } from 'style-dictionary/utils';
 
 const resolveReferences = dictionary => inputValue => {
@@ -35,7 +35,7 @@ function formatDesignTokens({dictionary}) {
     // names or any other attributes.
     value = refResolver(value);
 
-    _.setWith(tokenObj, token.path, token.value, Object);
+    setWith(tokenObj, token.path, token.value, Object);
   });
   return JSON.stringify(tokenObj, null, 2);
 }
