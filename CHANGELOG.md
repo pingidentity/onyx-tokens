@@ -1,3 +1,13 @@
+## 0.44.6-alpha.0 (2026-11-03)
+
+### 🩹 Fixes
+
+- update package.lock file
+
+### ❤️  Thank You
+
+- Ridhisha Dangol
+
 ## 0.44.5 (2026-10-22)
 
 ### 🚀 Features
