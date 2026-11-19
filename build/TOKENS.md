@@ -45,9 +45,13 @@ Use these tokens in the `sx` prop for consistent spacing:
 | `spacing.checkbox.label-gap` | `16px` |
 | `spacing.field.gap` | `4px` |
 | `spacing.input.padding-x` | `12px` |
+| `spacing.input.padding-x-large` | `13px` |
+| `spacing.input.md-s` | `13px` |
 | `spacing.container.padding` | `8px` |
 | `spacing.modal.shadow.y` | `8px` |
 | `spacing.modal.shadow.spread` | `16px` |
+| `spacing.popover.shadow.y` | `8px` |
+| `spacing.popover.shadow.blur` | `16px` |
 
 ---
 
@@ -329,6 +333,7 @@ Use these tokens in the `sx` prop for consistent spacing:
 | `gray.500` | `#69788B` |
 | `gray.600` | `#5e6d82` |
 | `gray.700` | `#455469` |
+| `gray.750` | `#46505C` |
 | `gray.800` | `#324054` |
 | `gray.900` | `#23282e` |
 | `gray.light` | `#f6f8fa` |

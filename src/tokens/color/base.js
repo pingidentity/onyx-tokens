@@ -50,6 +50,7 @@ export default {
       600: { value: '#5e6d82' },
       700: { value: '#455469' },
       dark: { value: '#455469' },
+      750: { value: '#46505C' },
       800: { value: '#324054' },
       900: { value: '#23282e' },
     },

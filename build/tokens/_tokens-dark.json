@@ -541,6 +541,10 @@
         "$value": "#455469",
         "$type": "color"
       },
+      "750": {
+        "$value": "#46505C",
+        "$type": "color"
+      },
       "800": {
         "$value": "#324054",
         "$type": "color"
@@ -1212,6 +1216,14 @@
       "padding-x": {
         "$value": 12,
         "$type": "number"
+      },
+      "padding-x-large": {
+        "$value": 13,
+        "$type": "number"
+      },
+      "md-s": {
+        "$value": 13,
+        "$type": "number"
       }
     },
     "container": {
@@ -1227,6 +1239,18 @@
           "$type": "number"
         },
         "spread": {
+          "$value": 16,
+          "$type": "number"
+        }
+      }
+    },
+    "popover": {
+      "shadow": {
+        "y": {
+          "$value": 8,
+          "$type": "number"
+        },
+        "blur": {
           "$value": 16,
           "$type": "number"
         }
