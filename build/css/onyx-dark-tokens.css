@@ -103,6 +103,7 @@
   --color-gray-500: #69788B;
   --color-gray-600: #5e6d82;
   --color-gray-700: #455469;
+  --color-gray-750: #46505C;
   --color-gray-800: #324054;
   --color-gray-900: #23282e;
   --color-gray-light: #455469;
@@ -151,6 +152,8 @@
   --spacing-card-shadow-y: 0;
   --spacing-card-shadow-blur: 0;
   --spacing-input-padding-x: 12;
+  --spacing-input-padding-x-large: 13;
+  --spacing-input-md-s: 13;
   --spacing-xl: 48;
   --spacing-lg: 24;
   --spacing-md: 16;
@@ -284,6 +287,8 @@
   --color-input-bg: var(--color-common-bg-base);
   --color-input-readonly-bg: var(--color-common-bg-secondary);
   --color-nav-bar-border: var(--color-common-border);
+  --spacing-popover-shadow-y: var(--spacing-modal-shadow-y);
+  --spacing-popover-shadow-blur: var(--spacing-modal-shadow-spread);
   --color-button-critical-bg: var(--color-critical);
   --color-button-critical-border: var(--color-critical);
 }

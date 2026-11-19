@@ -103,6 +103,7 @@
   --color-gray-500: #69788B;
   --color-gray-600: #5e6d82;
   --color-gray-700: #455469;
+  --color-gray-750: #46505C;
   --color-gray-800: #324054;
   --color-gray-900: #23282e;
   --color-gray-light: #f6f8fa;
@@ -148,6 +149,8 @@
   --spacing-card-shadow-y: 1;
   --spacing-card-shadow-blur: 3;
   --spacing-input-padding-x: 12;
+  --spacing-input-padding-x-large: 13;
+  --spacing-input-md-s: 13;
   --spacing-xl: 48;
   --spacing-lg: 24;
   --spacing-md: 16;
@@ -279,6 +282,8 @@
   --color-nav-bar-item-selected-text: var(--color-blue-dark);
   --color-nav-bar-item-selected-bg: var(--color-blue-light);
   --color-table-row-selected-bg: var(--color-blue-light);
+  --spacing-popover-shadow-y: var(--spacing-modal-shadow-y);
+  --spacing-popover-shadow-blur: var(--spacing-modal-shadow-spread);
   --color-font-error: var(--color-critical);
   --color-alert-success-bg: var(--color-success-light);
   --color-alert-critical-bg: var(--color-critical-light);
