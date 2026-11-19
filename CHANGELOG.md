@@ -1,3 +1,13 @@
+## 0.45.0-alpha.0 (2026-11-19)
+
+### 🚀 Features
+
+- **astro:** [UXE-9170] add Onyx themed DatePicker to Storybook
+
+### ❤️  Thank You
+
+- Eshant Monga
+
 ## 0.44.6 (2026-11-05)
 
 This was a version bump only for onyx-tokens to align it with other projects, there were no code changes.
